@@ -1,6 +1,11 @@
 # 💫 About Me:
-I am a B.Tech student specializing in Artificial Intelligence and Machine Learning. I have a strong foundation in Python, C, and libraries like Pandas and NumPy, along with experience working with databases and backend tools such as Supabase, Firebase, and MySQL. I am continuously expanding my skills in data science, backend development, and AI systems.<br><br>I am deeply interested in combining AI/ML with cybersecurity to build intelligent and secure systems. I am also working on innovative project ideas like automated malware analysis and sustainability-focused applications, reflecting my problem-solving mindset and real-world approach.<br><br>I am focused on building a strong career in technology, constantly learning, experimenting, and improving my technical and communication skills to stay ahead in the evolving tech landscape
+I am a B.Tech student specializing in Artificial Intelligence and Machine Learning, with a growing expertise in Data Science, Machine Learning, and Backend Development. My technical skills include Python, SQL, C, Pandas, NumPy, Matplotlib, FastAPI, Firebase, Supabase, MySQL, PostgreSQL, and Git. I enjoy building scalable applications, analyzing data, and developing AI-driven solutions to solve real-world problems.
 
+My interests lie at the intersection of AI/ML, Data Science, Large Language Models (LLMs), and Cybersecurity. I am passionate about creating intelligent, secure, and impactful systems that address practical challenges through innovation and automation.
+
+I have worked on projects such as CitySense, a smart and sustainability-focused urban platform with AI-powered features, Swasthya Sahayak, an AI-based healthcare assistant, an Automated Malware Analysis system, and a Lane Detection System using computer vision. These projects have strengthened my problem-solving abilities and hands-on experience in developing end-to-end AI applications.
+
+I am committed to continuous learning, exploring emerging technologies, participating in technical competitions, and enhancing both my technical expertise and communication skills. My goal is to build innovative, scalable, and secure AI-powered solutions that create meaningful real-world impact.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tanishq-kumar-272a712b5/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tanishqkumar87919@gmail.com) 
