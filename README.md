@@ -45,10 +45,10 @@
 </div>
 
 ```yaml
-Name: Purvi Jain
+Name: Tanishq kumar 
 Education: B.Tech in Artificial Intelligence
-College: Delhi Skill and Entrepreneurship University (DSEU)
-Focus: Artificial Intelligence + NLP + Data Analytics
+College: Raj Kumar Goel Institute Of Technology
+Focus: Artificial Intelligence + Data Science 
 Passion: Building Real World Tech & AI Projects
 ```
 
