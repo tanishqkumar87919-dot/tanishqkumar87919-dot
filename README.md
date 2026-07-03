@@ -1,8 +1,4 @@
-<div align="center">
-  <img width="100%" src="./banner.png" alt="Tanishq Kumar Banner">
-</div>
 
-<br>
 
 <div align="center">
 
