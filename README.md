@@ -8,6 +8,11 @@
 
 <div align="center">
 
+<img width="100%" src="https://raw.githubusercontent.com/tanishqkumar87919-dot/tanishqkumar87919-dot/main/assets/banner.png" alt="Tanishq Kumar Banner"/>
+
+</div>
+
+<br>
 
 
 </div>
@@ -16,7 +21,7 @@
 
 <div align="center">
 
-<a href="tanishqkumar87919-dot">
+<a href="https://github.com/tanishqkumar87919-dot">
 <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -38,11 +43,23 @@
 </div>
 
 ```yaml
-Name: Tanishq kumar 
-Education: B.Tech in Artificial Intelligence
-College: Raj Kumar Goel Institute Of Technology
-Focus: Artificial Intelligence + Data Science 
-Passion: Building Real World Tech & AI Projects
+Name: Tanishq Kumar
+Education: B.Tech in Computer Science Engineering (Artificial Intelligence)
+College: Raj Kumar Goel Institute of Technology
+
+Focus:
+  - Artificial Intelligence
+  - Machine Learning
+  - Data Science
+
+Currently Learning:
+  - Deep Learning
+  - NLP
+  - RAG Applications
+  - AI Agents
+
+Passion:
+  Building real-world AI solutions for a smarter and sustainable future.
 ```
 
 ---
@@ -108,7 +125,7 @@ Passion: Building Real World Tech & AI Projects
 ### 🔥 GitHub Contribution Chart
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+  <img src=<https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg>
 </p>
 
 </div>
@@ -117,7 +134,7 @@ Passion: Building Real World Tech & AI Projects
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Purvijain1234&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=tanishqkumar87919-dot&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
 
 </div>
 
