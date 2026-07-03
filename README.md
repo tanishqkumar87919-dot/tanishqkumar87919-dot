@@ -1,29 +1,136 @@
-# 💫 About Me:
-I am a B.Tech student specializing in Artificial Intelligence and Machine Learning, with a growing expertise in Data Science, Machine Learning, and Backend Development. My technical skills include Python, SQL, C, Pandas, NumPy, Matplotlib, FastAPI, Firebase, Supabase, MySQL, PostgreSQL, and Git. I enjoy building scalable applications, analyzing data, and developing AI-driven solutions to solve real-world problems.
+<div align="center">
 
-My interests lie at the intersection of AI/ML, Data Science, Large Language Models (LLMs), and Cybersecurity. I am passionate about creating intelligent, secure, and impactful systems that address practical challenges through innovation and automation.
+<img width="100%" height="350px" src="https://raw.githubusercontent.com/Purvijain1234/Purvijain1234/main/banner.png"/>
 
-I have worked on projects such as CitySense, a smart and sustainability-focused urban platform with AI-powered features, Swasthya Sahayak, an AI-based healthcare assistant, an Automated Malware Analysis system, and a Lane Detection System using computer vision. These projects have strengthened my problem-solving abilities and hands-on experience in developing end-to-end AI applications.
+</div>
+ 
+<br>
 
-I am committed to continuous learning, exploring emerging technologies, participating in technical competitions, and enhancing both my technical expertise and communication skills. My goal is to build innovative, scalable, and secure AI-powered solutions that create meaningful real-world impact.
+<div align="center">
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tanishq-kumar-272a712b5/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tanishqkumar87919@gmail.com) 
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=42&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=900&lines=AI+Developer;MERN+Stack+Developer;Data+Analytics+Enthusiast;Open+Source+Learner;DSA+Problem+Solver"/>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=tanishqkumar87919-dot&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=tanishqkumar87919-dot&theme=shades-of-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tanishqkumar87919-dot&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=tanishqkumar87919-dot&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<br> 
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=tanishqkumar87919-dot&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<div align="center">
+
+<a href="https://github.com/Purvijain1234">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/purvi-jain-315683326">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/PurviCodes">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://www.instagram.com/purvi._.jain27">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://x.com/purvijain5678">
+<img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+</div>
+
+<div align="center">
+  
+### 👩‍💻 About Me
+
+</div>
+
+```yaml
+Name: Purvi Jain
+Education: B.Tech in Artificial Intelligence
+College: Delhi Skill and Entrepreneurship University (DSEU)
+Focus: Artificial Intelligence + NLP + Data Analytics
+Passion: Building Real World Tech & AI Projects
+```
 
 ---
-[![](https://visitcount.itsvg.in/api?id=tanishqkumar87919-dot&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+
+### 💻 Tech Stack
+
+<img src="https://img.shields.io/badge/Natural_Language_Processing-8A2BE2?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Machine_Learning-FF9800?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Deep_Learning-E53935?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/LSTM-6A1B9A?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Data_Analysis-7B1FA2?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/MERN_Stack-00C853?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/DSA-3949AB?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 📈 Statistics
+
+<img width="70%" src="https://streak-stats.demolab.com?user=Purvijain1234&theme=midnight-purple&hide_border=true&background=0D1117&ring=C084FC&fire=A855F7&currStreakLabel=C084FC"/>
+
+<br>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Purvijain1234&theme=tokyonight"/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Purvijain1234&theme=tokyonight"/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Purvijain1234&theme=tokyonight"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🔥 GitHub Contribution Chart
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+</p>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Purvijain1234&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
+
+</div>
+
+
+<div align="center">
+
+#### 💜 Code • Learn • Build • Repeat 💜
+
+</div>
