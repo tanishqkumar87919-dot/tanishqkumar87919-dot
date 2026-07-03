@@ -16,25 +16,18 @@
 
 <div align="center">
 
-<a href="https://github.com/Purvijain1234">
+<a href="tanishqkumar87919-dot">
 <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/purvi-jain-315683326">
+<a href="https://www.linkedin.com/in/tanishq-kumar-272a712b5/?skipRedirect=true">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://leetcode.com/u/PurviCodes">
+<a href="https://leetcode.com/u/Tanishq87919/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
-<a href="https://www.instagram.com/purvi._.jain27">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://x.com/purvijain5678">
-<img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
 
 </div>
 
@@ -96,15 +89,15 @@ Passion: Building Real World Tech & AI Projects
 
 ### 📈 Statistics
 
-<img width="70%" src="https://streak-stats.demolab.com?user=Purvijain1234&theme=midnight-purple&hide_border=true&background=0D1117&ring=C084FC&fire=A855F7&currStreakLabel=C084FC"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=tanishqkumar87919-dot&theme=midnight-purple&hide_border=true&background=0D1117&ring=C084FC&fire=A855F7&currStreakLabel=C084FC"/>
 
 <br>
 
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Purvijain1234&theme=tokyonight"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tanishqkumar87919-dot&theme=tokyonight"/>
 
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Purvijain1234&theme=tokyonight"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tanishqkumar87919-dot&theme=tokyonight"/>
 
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Purvijain1234&theme=tokyonight"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tanishqkumar87919-dot&theme=tokyonight"/>
 
 </div>
 
