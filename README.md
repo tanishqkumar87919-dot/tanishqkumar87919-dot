@@ -8,7 +8,10 @@
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/tanishqkumar87919-dot/tanishqkumar87919-dot/main/assets/banner.png" alt="Tanishq Kumar Banner"/>
+<div align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/tanishqkumar87919-dot/tanishqkumar87919-dot/main/banner.png" alt="Tanishq Kumar Banner">
+ 
+</div>
 
 </div>
 
