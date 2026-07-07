@@ -112,6 +112,11 @@ Name: Tanishq Kumar
 | 🌱 **[Green Story](https://github.com/USERNAME/GreenStory)** | Sustainability platform |
 
 
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=tanishqkumar87919-dot&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishqkumar87919-dot&layout=compact&theme=tokyonight&hide_border=true"/>
+
 ### 🔥 GitHub Contribution Chart
 
 <p align="center">
