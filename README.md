@@ -81,9 +81,15 @@ Name: Tanishq Kumar
 
 ### 📈 Statistics
 
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=tanishqkumar87919-dot&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishqkumar87919-dot&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
 <img width="70%" src="https://streak-stats.demolab.com?user=tanishqkumar87919-dot&theme=midnight-purple&hide_border=true&background=0D1117&ring=C084FC&fire=A855F7&currStreakLabel=C084FC"/>
 
-<br>
+<br><br>
 
 <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tanishqkumar87919-dot&theme=tokyonight"/>
 
