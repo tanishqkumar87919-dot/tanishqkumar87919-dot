@@ -69,8 +69,13 @@ Name: Tanishq Kumar
 ```
 
 ---
-
 <div align="center">
+
+### 💻 LeetCode
+
+<img src="https://leetcard.jacoblin.cool/Tanishq87919?theme=dark&font=Karma"/>
+
+</div>
 
 ### 💻 Tech Stack
 
