@@ -133,17 +133,22 @@ Name: Tanishq Kumar
 
 </div>
 
-<br>
-
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=tanishqkumar87919-dot&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
 
 </div>
 
+<div align="center">
+
+#### ⩹ Code • Learn • Build • Repeat ⩺
+
+</div>
+
+<br>
 
 <div align="center">
 
-#### ⩹ Code • Learn • Build • Repeat ⩺ 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
 
 </div>
