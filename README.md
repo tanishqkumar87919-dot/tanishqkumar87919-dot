@@ -23,19 +23,6 @@
 
 </div>
 
-<br>
-
-
-</div>
-
-<br> 
-
-<div align="center">
-
-
-
-</div>
-
 <div align="center">
   
 ### 👩‍💻 About Me
