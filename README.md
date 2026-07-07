@@ -121,6 +121,25 @@ Name: Tanishq Kumar
 | 🚗 Lane Detection System | Computer Vision project using OpenCV for real-time lane detection. |
 | 🌱 Green Story | Sustainability-focused platform promoting eco-friendly living. |
 
+
+<div align="center">
+
+### 🌐 Connect With Me
+
+<a href="https://www.linkedin.com/in/tanishq-kumar-272a712b5">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/Tanishq87919/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+</div>
+
 ### 🔥 GitHub Contribution Chart
 
 <p align="center">
