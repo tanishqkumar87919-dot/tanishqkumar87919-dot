@@ -98,13 +98,12 @@ Name: Tanishq Kumar
 
 <div align="center">
   
-<div align="center">
+## 🏅 Certifications
 
-### 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=tanishqkumar87919-dot&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</div>
+- 🧠 AI Virtual Internship – Eduskills
+- ☁️ AWS Academy Virtual Internship
+- 💼 Deloitte Virtual Internship
+- 🤖 AI Implementation Associate – McKinley Rice (Redrob AI)
 
 ## 🚀 Featured Projects
 
