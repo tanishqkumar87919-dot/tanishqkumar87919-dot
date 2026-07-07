@@ -80,12 +80,13 @@ Name: Tanishq Kumar
 
 </div>
 
+<div align="center">
+
 ### 💻 Tech Stack
 
 <img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript,html,css,react,nodejs,mongodb,mysql,firebase,git,github,vscode,tensorflow,pytorch,opencv,linux,figma"/>
 
 </div>
-
 ---
 
 <div align="center">
