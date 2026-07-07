@@ -79,12 +79,6 @@ Name: Tanishq Kumar
 
 <div align="center">
 
-## 📈 GitHub Statistics
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=tanishqkumar87919-dot&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishqkumar87919-dot&layout=compact&theme=tokyonight&hide_border=true"/>
-
 <br><br>
 
 <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=tanishqkumar87919-dot&theme=tokyonight&hide_border=true"/>
