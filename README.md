@@ -107,10 +107,10 @@ Name: Tanishq Kumar
 ## 🚀 Featured Projects
 
 | Project | Description |
-|----------|-------------|
-| 🚦 CitySense | AI-powered smart city platform with route optimization, weather, AQI, and crowd analysis. |
-| 🚗 Lane Detection System | Computer Vision project using OpenCV for real-time lane detection. |
-| 🌱 Green Story | Sustainability-focused platform promoting eco-friendly living. |
+|---------|-------------|
+| 🚦 **[CitySense](https://github.com/USERNAME/CitySense)** | AI-powered smart city platform |
+| 🚗 **[Lane Detection System](https://github.com/USERNAME/LaneDetection)** | Computer Vision using OpenCV |
+| 🌱 **[Green Story](https://github.com/USERNAME/GreenStory)** | Sustainability platform |
 
 
 ### 🔥 GitHub Contribution Chart
