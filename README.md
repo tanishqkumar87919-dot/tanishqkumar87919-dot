@@ -3,6 +3,8 @@
 
 <div align="center">
   <img width="100%" src="https://raw.githubusercontent.com/tanishqkumar87919-dot/tanishqkumar87919-dot/main/banner.png" alt="Tanishq Kumar Banner">
+
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&center=true&vCenter=true&width=650&lines=AI+Engineer;Machine+Learning+Developer;Building+Real+World+AI+Projects;Always+Learning)](https://git.io/typing-svg)
  
 </div>
 
@@ -111,11 +113,6 @@ Name: Tanishq Kumar
 | 🚗 **[Lane Detection System](https://github.com/USERNAME/LaneDetection)** | Computer Vision using OpenCV |
 | 🌱 **[Green Story](https://github.com/USERNAME/GreenStory)** | Sustainability platform |
 
-
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=tanishqkumar87919-dot&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishqkumar87919-dot&layout=compact&theme=tokyonight&hide_border=true"/>
 
 ### 🔥 GitHub Contribution Chart
 
