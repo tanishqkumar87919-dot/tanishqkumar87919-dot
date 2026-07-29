@@ -80,10 +80,16 @@ Name: Tanishq Kumar
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48" height="48"/>
 </div>
 
-
 ---
 
 <div align="center">
+
+### 📊 GitHub Stats
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tanishqkumar87919-dot&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishqkumar87919-dot&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 <br><br>
 
@@ -94,6 +100,8 @@ Name: Tanishq Kumar
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tanishqkumar87919-dot&theme=tokyo-night&hide_border=true"/>
 
 </div>
+
+
 ---
 
 <div align="center">
@@ -134,10 +142,6 @@ Name: Tanishq Kumar
 
 </div>
 
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tanishqkumar87919-dot&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishqkumar87919-dot&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
 
 <br>
 
