@@ -72,9 +72,9 @@ Name: Tanishq Kumar
 
 ### 💻 Tech Stack
 
-<img src="https://skillicons.dev/icons?i=python,,c,mysql,firebase,git,github,vscode,tensorflow,pytorch,opencv,figma,pandas,numpy,matplotlib,seaborn,scikit-learn,"/>
+<img src="https://skillicons.dev/icons?i=python,c,mysql,firebase,git,github,vscode,tensorflow,pytorch,opencv,figma,pandas,numpy,matplotlib,seaborn,sklearn" />
 
-</div>
+
 ---
 
 <div align="center">
